@@ -1,0 +1,64 @@
+
+body {font-family: "Lato", sans-serif;
+	  background-color: #fff;
+	  font-size: 14px;
+}
+
+h1 {
+	font-size: 1.8em;
+	font-weight: 400;
+	font-style: bolder;
+	color: #b6002d;
+	font-family: 'ubuntu', sans-serif;
+	float:left;
+ 	margin-bottom: 0px;
+}
+
+#container {
+	width: 550px;
+	margin: 15px 15px;
+	padding: 10px;			
+}
+
+.divider {
+    margin: 0;
+    padding: 0;
+    border-top: 1px dashed #ccc;
+    background-color: #f1f1f1;
+    width: 1150px;
+}
+
+/*
+* Table Styles 
+*/
+
+.tablestyle {
+    /*border: 1px solid black;*/
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    padding: 5px;
+    vertical-align: top;
+}
+
+.tablestyle_highlight {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    padding: 5px;
+    background-color: #f1f1f1;
+    vertical-align: top;
+}
+
+.tablestyle_header {	
+	margin: 0px;
+    padding: 5px;
+    vertical-align: top;    
+}
+
+.tablestyle_header_highlight {
+    padding: 5px; 
+       border: 1px solid #ccc;
+    border-collapse: collapse;    
+    background-color: #f1f1f1;
+    vertical-align: top;
+    text-align: left;
+}
