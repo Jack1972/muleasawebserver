@@ -1,6 +1,10 @@
 # muleasawebserver
 Mule As A Webserver is a project i did while i was writing a blog post on the subject. 
-so the project shows how you can use Mule as a webserver to present a web front end.
 
-So i you already have a mule runing you dont need a seperate webserver for it just use mule.
+The project shows how you can use Mule as a webserver to present a web frontend. The
+project contains all the files you need, mule flows, HTML, CSS , Javascript. 
+files just start mule and in a browser type localhost:8081. 
+
+So if you already have a mule running you don't need a seperate webserver to present a 
+web frontend just use mule.
 
